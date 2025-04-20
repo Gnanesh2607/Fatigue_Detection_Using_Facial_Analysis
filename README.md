@@ -49,4 +49,4 @@ Future Improvements
 - Add audio alerts for higher visibility
 - Log alert timestamps for performance reports.
   
-Contact – Lingamaneni Gnanesh Chowdary, gcli2607@snu.edu.in.
+Contact – Lingamaneni Gnanesh Chowdary, gcli2607@gmail.com.
